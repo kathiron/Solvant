@@ -1,0 +1,11 @@
+/Python/test1/custom/apiresources/__pycache__
+/Python/test1/custom/classes/__pycache__
+/Python/test1/custom/database/model/__pycache__
+/Python/test1/custom/database/sql_lite/__pycache__
+/Python/test1/custom/database/sql_server/__pycache__
+/Python/test1/custom/database/sql_server/repository/__pycache__
+/Python/test1/custom/utils/__pycache__
+/Python/test1/custom/writer/__pycache__
+/.vs
+/.vscode
+/Python/test1/.vscode
